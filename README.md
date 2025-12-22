@@ -1,7 +1,19 @@
 ***************************************************
+**Dual-Axis Servo Control System with Real-Time PID Tuner and Telemetry
 
+This project implements a high-precision, real-time control system for a dual-axis (X-Y / - Pan/Tilt) servo platform using the STM32F4 (ARM Cortex-M4) architecture and FreeRTOS. The system stabilizes the platform by processing feedback from a dual-channel ADC (utilizing the servos' internal potentiometers), applying a Low-Pass Filter (LPF) to reduce noise, and calculating precise duty cycles via a dedicated PID control loop.
 
+Key features include a multi-threaded task architecture where control loops, sensor data acquisition, and communications are managed independently to deliver low-latency performance. The project also features a robust UART Command Interface, allowing users to dynamically update target setpoints from a terminal—via a custom MATLAB-based desktop application—while receiving real-time telemetry data, including current angles, setpoints, and PID coefficients.
 
+**Core Highlights:
+
+Remote Control: Dedicated MATLAB desktop GUI for real-time setpoint tuning and performance monitoring created by me.
+
+RTOS Integration: Multi-threaded architecture for deterministic task execution and low latency.
+
+Smart Telemetry: Continuous UART feedback of system states (angles, PWM, PID gains).
+
+Signal Integrity: Integrated Low-Pass Filtering to ensure stable feedback in noisy environments.
 
 
 
