@@ -5,7 +5,7 @@ This project implements a high-precision, real-time control system for a dual-ax
 
 Key features include a multi-threaded task architecture where control loops, sensor data acquisition, and communications are managed independently to deliver low-latency performance. The project also features a robust UART Command Interface, allowing users to dynamically update target setpoints from a terminal—via a custom MATLAB-based desktop application—while receiving real-time telemetry data, including current angles, setpoints, and PID coefficients.
 
-**Core Highlights:
+*Core Highlights:*
 
 Remote Control: Dedicated MATLAB desktop GUI for real-time setpoint tuning and performance monitoring created by me.
 
