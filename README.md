@@ -31,5 +31,6 @@ Check the video below: https://www.youtube.com/watch?v=9InCc37I-D4
 <img width="2558" height="1598" alt="Ekran görüntüsü 2025-12-22 180415" src="https://github.com/user-attachments/assets/364e26d0-7946-4df5-b734-74a6ab42a213" />
 <img width="2558" height="1560" alt="Ekran görüntüsü 2025-12-22 181548" src="https://github.com/user-attachments/assets/7e3c4717-508c-4d0d-ab6e-4b18d1da1842" />
 <img width="2558" height="1571" alt="Ekran görüntüsü 2025-12-22 181837" src="https://github.com/user-attachments/assets/3d470b48-1738-4a01-9459-910a8cf1f7c3" />
+![523450203-cf1bcfe5-4560-4166-9c67-ad90d7a73c89](https://github.com/user-attachments/assets/00f61532-0dac-4732-9435-d5f2ea00b66a)
 <img width="400" height="400" alt="splash" src="https://github.com/user-attachments/assets/6b9695b7-f362-4099-bebd-62a9337eeda8" />
 
