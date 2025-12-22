@@ -15,6 +15,8 @@ Key features include a multi-threaded task architecture where control loops, sen
 
 * *Signal Integrity*: Integrated Low-Pass Filtering to ensure stable feedback in noisy environments.
 
+*To receive voltage information from the MG996R servo motor's internal potentiometer and transmit it to the ADC, you need to solder the gray wire to the potentiometer's center leg and bring it out, as shown in the photo.*
+
 ***************************************************
 Check the video below: https://www.youtube.com/watch?v=9InCc37I-D4
 
