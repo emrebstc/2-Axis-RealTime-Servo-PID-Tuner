@@ -7,7 +7,7 @@ Key features include a multi-threaded task architecture where control loops, sen
 
 ## Core Highlights:
 
-* *Remote Control*: Dedicated MATLAB desktop GUI for real-time setpoint tuning and performance monitoring created by me.
+* *Remote Control*: Dedicated MATLAB desktop app and GUI for real-time setpoint tuning and performance monitoring created by me.
 
 * *RTOS Integration*: Multi-threaded architecture for deterministic task execution and low latency.
 
