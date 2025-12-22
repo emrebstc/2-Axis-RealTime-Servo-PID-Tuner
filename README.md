@@ -16,7 +16,7 @@ Key features include a multi-threaded task architecture where control loops, sen
 * *Signal Integrity*: Integrated Low-Pass Filtering to ensure stable feedback in noisy environments.
 
 ***************************************************
-Check the video below; https://www.youtube.com/watch?v=9InCc37I-D4
+Check the video below: https://www.youtube.com/watch?v=9InCc37I-D4
 
 [![Watch the video](https://img.youtube.com/vi/9InCc37I-D4/maxresdefault.jpg)](https://youtu.be/9InCc37I-D4)
 
