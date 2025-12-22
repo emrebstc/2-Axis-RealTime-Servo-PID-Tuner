@@ -18,7 +18,7 @@ Key features include a multi-threaded task architecture where control loops, sen
 ***************************************************
 https://www.youtube.com/watch?v=9InCc37I-D4
 
-[![2-Axis RealTime Servo PID Tuner](https://img.youtube.com/vi/Fj-yIu2pY_Y/0.jpg)](https://www.youtube.com/watch?v=Fj-yIu2pY_Y)
+[2-Axis RealTime Servo PID Tuner](https://img.youtube.com/vi/Fj-yIu2pY_Y/0.jpg)](https://www.youtube.com/watch?v=Fj-yIu2pY_Y)
 
 
 ![2](https://github.com/user-attachments/assets/126672b5-4563-4448-8c12-04af85c72059)
