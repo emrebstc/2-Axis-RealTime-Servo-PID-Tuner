@@ -1,5 +1,5 @@
 ***************************************************
-## Dual-Axis Servo Control System with Real-Time PID Tuner and Telemetry*
+## Dual-Axis Servo Control System with Real-Time PID Tuner and Telemetry
 
 This project implements a high-precision, real-time control system for a dual-axis (X-Y / - Pan/Tilt) servo platform using the STM32F4 (ARM Cortex-M4) architecture and FreeRTOS. The system stabilizes the platform by processing feedback from a dual-channel ADC (utilizing the servos' internal potentiometers), applying a Low-Pass Filter (LPF) to reduce noise, and calculating precise duty cycles via a dedicated PID control loop.
 
