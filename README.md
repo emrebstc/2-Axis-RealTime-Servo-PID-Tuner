@@ -22,8 +22,6 @@ Check the video below: https://www.youtube.com/watch?v=9InCc37I-D4
 
 [![Watch the video](https://img.youtube.com/vi/9InCc37I-D4/maxresdefault.jpg)](https://youtu.be/9InCc37I-D4)
 
-
-
 ***************************************************
 ![2](https://github.com/user-attachments/assets/126672b5-4563-4448-8c12-04af85c72059)
 <img width="2558" height="1598" alt="Ekran görüntüsü 2025-12-22 180415" src="https://github.com/user-attachments/assets/364e26d0-7946-4df5-b734-74a6ab42a213" />
